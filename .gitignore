@@ -3,7 +3,7 @@ Content
 DerivedDataCache
 .vscode
 Intermediate
-
+.DS_Store
 
 # Compiled Object files
 *.slo
